@@ -53,7 +53,7 @@ Jeśli chodzi o tworzenie i edycję to jest ok, pojawiają się małe obszary, n
 * Fajnie by było, gdyby była opcja eksportu zestawień z graczami do innego formatu niż csv.
 * Niewygodne jest przewijanie stron z graczami jeśli nie ma możliwości szybkiego przejścia do strony pierwszej, ostatniej lub wybrania samemu zakresu.
 * Podobnie jest z wydrukiem/zapisywaniem do pliku - brak funkcji "zaznacz wszystko" lub "wskaż zakres".
-* Nie do końca rozumiem cel stosowania pola "języki", jeśli już istnieje, to może powinno być to pole zasłownikowane?
+* Nie do końca rozumiem cel stosowania pola "języki", jeśli już istnieje to może powinno być to pole zasłownikowane?
 * Nie do końca wiem na czym ma polegać mecz - ikonki nie są podpisane i są nieaktywne - jedynie można wysłać raport, reszta nie reaguje.
 
 
