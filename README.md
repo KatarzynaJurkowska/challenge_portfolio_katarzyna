@@ -71,7 +71,8 @@ Kilka małych niedoskonałości poniżej:
 7. Przy próbie zapisania błędnego e-maila w edycji gracza, wystepuje informacja: "Nie udało się zaktualizować gracza". Mógłby się pojawić powód, dla którego nie dało się zapisać zmiany lub przynajmniej mogłoby się podświetlić to pole, które nie dało się zmienić.
 8. Województwo nie jest oznaczone jako pole obowiązkowe a system "krzyczy", że pole to jest wymagane do stworzenia raportu (i trzeba jeszcze raz zaktualizować dane gracza).
 9. Zapisano niepoprawny link do youtube (kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk)
-10. Literówki na stronie głównej: 
+10. Na liście raportów brak informacji o numerze/nazwie raportu. Również nie można zmienić numeru/nazwy raportu podczas edycji raportu - efekt: dwa raporty o tym samym numerze a z innymi danymi "w środku".
+11. Literówki na stronie głównej: 
 >Aktywnosć
 
 
@@ -79,6 +80,11 @@ oraz
 
 
 >zaaktualizowany
+
+
+12. Nieistniejąca ikona:
+
+![obraz](https://user-images.githubusercontent.com/116674154/199107790-e5e3dc8c-2e1f-421d-961c-e4d5762b84f7.png)
 
 
 To chyba tyle na dziś :)
